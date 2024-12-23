@@ -10,10 +10,15 @@ The **Coffee Sales Dashboard** highlights trends, top-performing products, and r
 
 ### **Key Features**
 -Used XLOOKUP for efficient data retrieval.
+
 -Applied INDEX MATCH Function for complex lookups.
+
 -Created Pivot Tables for summarizing sales data.
+
 -Developed Pivot Charts linked to pivot tables for dynamic visualizations.
+
 -Added Slicers for interactive filtering.
+
 -Applied Filters to refine data views.
 
 ---
@@ -29,12 +34,6 @@ The **Coffee Sales Dashboard** highlights trends, top-performing products, and r
 - Identify top-performing products and regions.
 - Filter and slice data interactively by product, region, or time period.
 - Track sales trends over time with pivot charts and pivot tables.
-
----
-
-## 🙋‍♀️ About the Project
-This dashboard showcases my proficiency in Excel for data analysis and visualization. It demonstrates the use of advanced features like slicers, pivot tables, and conditional formatting to create a user-friendly interface for exploring sales data.
-
 ---
 
 ## 📞 Contact Details
